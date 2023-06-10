@@ -1,0 +1,10 @@
+How to Succeed in This Course
+
+Think of this course as having two courses in one
+1) Non technical aspects of the interview
+	a) Getting the interview
+	b) Non technical interview questions
+	c) Offer and the negotiation
+2) Technical skills
+	a) Data structures
+	b) Algorithms
